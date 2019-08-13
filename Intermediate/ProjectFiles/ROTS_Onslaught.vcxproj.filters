@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ROTS_Onslaught.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F1DEFA86-522D-4DFB-89E0-4B8956CB8D13}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ROTS_Onslaught.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ROTS_OnslaughtEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{A5805393-9C37-41C3-AC5D-5D838832BE1E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ROTS_Onslaught">
+			<UniqueIdentifier>{CD532C7B-850F-4E02-B833-610A86C6AEC1}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ROTS_Onslaught\BaseCharacter.cpp">
+			<Filter>Source\ROTS_Onslaught</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ROTS_Onslaught\BaseCharacter.h">
+			<Filter>Source\ROTS_Onslaught</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\ROTS_Onslaught\ROTS_Onslaught.Build.cs">
+			<Filter>Source\ROTS_Onslaught</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ROTS_Onslaught\ROTS_Onslaught.cpp">
+			<Filter>Source\ROTS_Onslaught</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ROTS_Onslaught\ROTS_Onslaught.h">
+			<Filter>Source\ROTS_Onslaught</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

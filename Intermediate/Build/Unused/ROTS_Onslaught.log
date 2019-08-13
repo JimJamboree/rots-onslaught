@@ -1,0 +1,21 @@
+﻿Build started 28/02/2016 03:33:44 PM.
+     1>Project "C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\Intermediate\ProjectFiles\ROTS_Onslaught.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files\Epic Games\4.9\Engine\Build\BatchFiles\Build.bat" ROTS_OnslaughtEditor Win64 Development "C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\ROTS_Onslaught.uproject" -rocket -waitmutex
+         Creating makefile for hot reloading ROTS_OnslaughtEditor (modules to compile have changed)
+         Compiling game modules for hot reload
+         Parsing headers for ROTS_OnslaughtEditor
+           Running UnrealHeaderTool "C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\ROTS_Onslaught.uproject" "C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\Intermediate\Build\Win64\ROTS_OnslaughtEditor\Development\UnrealHeaderTool.manifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -rocket -installed
+         Reflection code generated for ROTS_OnslaughtEditor in 10.3449119 seconds
+         Performing 3 actions (4 in parallel)
+         BaseCharacter.cpp
+         ROTS_Onslaught.generated.cpp
+         [3/3] Link UE4Editor-ROTS_Onslaught-2614.dll
+            Creating library C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-ROTS_Onslaught-2614.lib and object C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\Intermediate/Build/Win64\UE4Editor\Development\UE4Editor-ROTS_Onslaught-2614.exp
+         -------- End Detailed Actions Stats -----------------------------------------------------------
+         Total build time: 19.96 seconds
+     1>Done Building Project "C:\Users\James\Documents\Unreal Projects\ROTS_Onslaught\Intermediate\ProjectFiles\ROTS_Onslaught.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:20.49
